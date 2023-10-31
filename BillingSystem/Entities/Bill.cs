@@ -1,0 +1,10 @@
+﻿namespace BillingSystem.Entities
+{
+    public class Bill
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Description { get; set; }
+
+    }
+}
